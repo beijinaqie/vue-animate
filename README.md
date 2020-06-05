@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Preview
+[demo](https://beijinaqie.github.io/vue-animate/dist).
